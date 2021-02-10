@@ -1,6 +1,6 @@
 // selectors
 let updateBudgetButton = document.querySelector("#update_budget");
-let addExpense = document.querySelector("#add_expense");
+let addExpenseButton = document.querySelector("#add_expense");
 let monthlyBudget = document.querySelector("#monthly_budget");
 let incomeInput = document.querySelector("#income_input");
 let remainingBalance = document.querySelector("#remaining_balance");
